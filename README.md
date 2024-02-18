@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **RAHMA-WEBSITE**
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **LARAVEL**
 
 - 🌱 I’m currently looking for a **PFE internship opportunity**
 
